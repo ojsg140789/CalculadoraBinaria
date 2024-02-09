@@ -4,7 +4,7 @@
   "description": "Aplicación para convertir binarios a decimal y viceversa",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha ./*.spec.js -t 10000"
+    "test": "mocha"
   },
   "author": "Roberth Borges",
   "license": "ISC",
